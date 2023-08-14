@@ -1,6 +1,6 @@
 .a{  height: 400px;
     width: 1250px;
-    background-image: url("images/pattern-background-desktop.svg");
+    background-image: url("pattern-background-desktop.svg");
     backface-visibility: visible;
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,7 +10,7 @@
 #b{
     height: 520px;
     width: 350px;
-    background-image: url("images/illustration-hero.svg");
+    background-image: url("illustration-hero.svg");
     background-repeat: no-repeat;
     position: absolute;
     left: 35%;
@@ -34,7 +34,7 @@ font-weight: 1000;
     color:gray;
 }
 #sex{
-    background-image: url("images/icon-music.svg");
+    background-image: url("icon-music.svg");
     background-repeat: no-repeat;
     background-position:1px;
     transform:translateY(220px) ;
