@@ -1,0 +1,87 @@
+.a{  height: 400px;
+    width: 1250px;
+    background-image: url("images/pattern-background-desktop.svg");
+    backface-visibility: visible;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 10px;
+    position: relative;
+}
+#b{
+    height: 520px;
+    width: 350px;
+    background-image: url("images/illustration-hero.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 35%;
+    top:30px;
+    border-radius: 35px;
+    box-shadow: 0 0 2pc gray;
+    text-align: center;
+    background-color: aliceblue;
+} 
+.se{
+  transform: translateY(210px);
+}
+#xyz{
+font-size: 25px;
+font-weight: 1000;
+}
+#abc{
+    padding: 0 69px;
+    font-size: small;
+    font-weight: 100;
+    color:gray;
+}
+#sex{
+    background-image: url("images/icon-music.svg");
+    background-repeat: no-repeat;
+    background-position:1px;
+    transform:translateY(220px) ;
+    box-shadow: 0 0 1pc grey;
+    margin: 0 20px;
+    border-radius: 10px;
+    background-color:aliceblue;
+    padding: 4px 0 4px 0;
+}
+#pj{
+    background-color: rgb(255, 255, 255);
+    color: blueviolet;
+    box-shadow: 0 0 0.5pc grey;
+    border-radius: 5px;
+    font-weight: 400;
+    cursor: pointer;
+}
+#kla{
+    transform: translateY(230px);
+    box-shadow: 0 0 0.5pc gray;
+    background-color:blueviolet;
+    border-radius: 5px;
+    color:white;cursor: pointer;
+    padding: 5px 10px;
+    margin-top: 2px;
+}
+#kl{
+    transform: translateY(230px);
+    box-shadow: 0 0 0.5pc gray;
+    background-color:red;
+    border-radius: 5px;
+    color:white;cursor: pointer;
+    padding: 5px 10px;
+    margin-top: 2px;
+}
+img{
+    height: 100px;
+}
+#kla:hover{
+    background-color: white;
+    color: blueviolet;
+}
+#kl:hover{
+    background-color: white;
+    color:red;
+}
+#pj:hover{
+    background-color: blueviolet;
+    color: white;
+}
