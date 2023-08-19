@@ -33,7 +33,7 @@ font-weight: 1000;
     font-weight: 100;
     color:gray;
 }
-#sex{
+#set{
     background-image: url("icon-music.svg");
     background-repeat: no-repeat;
     background-position:1px;
@@ -52,7 +52,7 @@ font-weight: 1000;
     font-weight: 400;
     cursor: pointer;
 }
-#kla{
+#kia{
     transform: translateY(230px);
     box-shadow: 0 0 0.5pc gray;
     background-color:blueviolet;
@@ -73,7 +73,7 @@ font-weight: 1000;
 img{
     height: 100px;
 }
-#kla:hover{
+#kia:hover{
     background-color: white;
     color: blueviolet;
 }
